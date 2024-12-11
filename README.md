@@ -4,7 +4,7 @@ Updatable Privacy-Preserving Blueprints
 
 作者：Bernardo David, Felix Engelmann, Tore Frederiksen, Markulf Kohlweiss, Elena Pagnin, and Mikhail Volkhov
 
-文章链接：https://eprint.iacr.org/2023/1787论文分析
+文章链接：https://eprint.iacr.org/2023/1787
 
 ### 1\. 摘要总结
 
